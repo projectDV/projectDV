@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siddhartha Gupta.
 - 👀 I’m interested in anything related to electronics. 
-- 🌱 I’m currently working as a SOC/IP Verification Engineer[Consultant] at Microchip India.
+- 🌱 Working as Senior DV Engineer at Digicomm Semicondutor.
 - 📫 Reach me out @ siddhartha.gupta119@gmail.com
 
 <!---
