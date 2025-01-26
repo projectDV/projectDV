@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siddhartha Gupta.
 - 👀 I’m interested in anything related to electronics. 
-- 🌱 Working as Senior DV Engineer at Digicomm Semicondutor.
+- 🌱 Working as Senior DV Engineer at Quest Global.
 - 📫 Reach me out @ siddhartha.gupta119@gmail.com
 
 <!---
